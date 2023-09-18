@@ -1,0 +1,10 @@
+.main{
+    background-color: #101113;
+    color:#ffffff;
+}
+.main img{
+    display: block;
+    margin-left: auto;
+    width:43%;
+    height:43%;
+}
