@@ -6,6 +6,7 @@ import { SkillsComponent } from './skills/skills.component';
 import { CertificationComponent } from './certification/certification.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { ContactComponent } from './contact/contact.component';
+import { ResumeComponent } from './resume/resume.component';
 
 const routes: Routes = [
   {
@@ -17,6 +18,7 @@ const routes: Routes = [
       { path: 'certification', component:CertificationComponent},
       { path: 'projects', component: ProjectsComponent},
       { path: 'contact', component:ContactComponent},
+      { path: 'resume', component:ResumeComponent},
       { path: '**', redirectTo: 'home' },]
   }
 ];

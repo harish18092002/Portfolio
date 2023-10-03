@@ -8,7 +8,6 @@
 #Image img{
     height: 60%;
     width: 60%;
-    object-fit: cover;
     margin-left:20%;
     margin-top: 10%;
 }
@@ -23,13 +22,12 @@
     margin-right:20%;
 }
 #Jayasri,#Developer {
-    color: #ffffff;
+    color:#ffffff;
     font-family: "ABeeZee";
     font-style: italic;
     font-size: 200%;
     text-transform: uppercase;
 }
 #color {
-    color:#a46363;
-
+    color:#bdafe0;
 }
